@@ -4,7 +4,7 @@ company ID:seekzed
 user for deveo
 
 1. dktech89@gmail.com(Admin)
-pwd:dkp21989
+pwd:dkp@1989
 
 2.seekzed@gmail.com
 pwd:dkp@1989
